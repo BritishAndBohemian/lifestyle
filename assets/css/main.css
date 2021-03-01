@@ -6,3 +6,11 @@
   }
 }
 
+@media (min-width:768px) {
+  .masthead .intro-body .intro-text {
+    font-size: 22px;
+    /*display: flex;*/
+    /*justify-content: center;*/
+  }
+}
+
